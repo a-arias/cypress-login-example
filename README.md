@@ -7,4 +7,5 @@
 ## Run the tests
 * Clone the repo: `$ git clone git@github.com:a-arias/cypress-login-example.git`
 * Open directory: `$ cd cypress-login-example`
+* Install libraries `$ npm install`
 * run tests with cypress UI with: `$ npx cypress open` or in cypress terminal: `$ npx cypress open`
